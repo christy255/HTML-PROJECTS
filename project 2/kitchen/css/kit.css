@@ -1,0 +1,70 @@
+body
+{
+   background-image: url(../images/dark.jpg);
+}
+
+ul{
+	list-style-type: none;
+	margin-left: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: grey;
+	margin-top: -10px;
+}
+	li{
+float: left;
+	}
+	li a{
+		margin-top: 0px;
+		display:block;
+		color: white;
+		text-align: center;
+		padding: 14px 10px;
+		text-decoration: none;
+	}
+	li a:hover:not(.active){
+		color: orange;
+	}
+	.active{
+		color: black;
+	}
+	.japan{
+		column-count: 3;
+	
+	}
+	.image1{
+		padding-left: :10px;
+	}
+	.sauces{
+		column-count: 3;
+		margin-top: -20px;
+	}
+	.image2{
+		padding-left: :10px;
+	}
+	.master{
+		margin-left: 10%;
+		margin-right: 19.5%;
+		background-color: white;
+		color: black;
+	}.recipes,h3,a{
+		color: red;
+		list-style-type: none;
+		line-height: 35px;
+		text-decoration: none;
+		
+
+	}
+	#re{
+		padding-right: 50px;
+	}
+	#fot{
+		background-color: grey;
+		color: white;
+		padding-left: 25px;
+		margin-top: 10px;
+	}
+	.jan{
+		margin-left: 10px;
+	}
+

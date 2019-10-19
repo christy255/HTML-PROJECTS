@@ -1,0 +1,86 @@
+html,body{
+	margin:0px;
+	padding: 0px;
+}
+.img1
+{
+	margin-left: 43%;
+	margin-right: 0%;
+	position: absolute;
+}
+#im
+{
+	position: absolute;
+	padding-top: 20px;
+}
+.img2{
+	position: absolute;
+	margin-left: 40px;
+	padding-left: 140px;
+}
+#hed{
+	padding-left: 60px;
+	padding-top: 20px;
+	font-family: 'Open Sans';
+	color:#707070;
+	font-style: normal;
+font-weight: normal;
+font-size: 40px;
+}
+.a{
+	margin-top: 0px;
+	font-size: 45px;
+	
+}
+.form
+{
+   padding-top: 10%;
+   padding-left: 15%;
+   font-size: 20px;
+   line-height: 35px;
+   
+}
+h3
+{
+font-family: 'Open Sans';
+   color: #aaa;
+   font-style: normal;
+
+   
+}
+#name
+{
+border-radius: 6px;
+padding-left: 5px;
+width: 25%;
+height: 40px;
+border-width: 1px;
+font-size: 15px;
+font-weight: normal;
+border-color: #ccc;
+border-style:solid;
+}
+#btn
+{
+border-radius: 6px;
+    background-color: transparent;
+    width: 10%;
+    height: 40px;
+    font-size: 15px;
+    border-width: 1px;
+    border-color: #ccc;
+    border-style: solid;
+   
+}
+a
+{
+text-decoration: none;
+color: #00d48a;
+font-family: 'Open Sans'
+}
+.main{
+	padding-right: 100px;
+	margin-top: 0px;
+	margin-left: -5%;
+}
+
